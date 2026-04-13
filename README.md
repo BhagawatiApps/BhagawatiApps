@@ -27,14 +27,14 @@
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 ```yaml
-👤 name        : BhagawatiApps
+👤 name        : Bhoumik Bhatt (BhagawatiApps)
 🎯 focus       : Mobile & Cross-Platform Apps
 📱 primary     : Flutter (Dart)
 🌐 web         : React + Node.js + TypeScript
 🔥 backend     : Firebase, REST APIs
 🎓 learning    : Cloud Architecture & DevOps
 🤝 collaborate : Open Source & Innovative Ideas
-💡 ask me      : Flutter, UI/UX, App Architecture
+💡 ask me      : Flutter, Android, UI/UX, App Architecture
 ⚡ fun_fact    : I turn ☕ coffee into 💻 code!
 ```
 
@@ -48,6 +48,7 @@
 
 ### 📌 Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
