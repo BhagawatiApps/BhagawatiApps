@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:61DAFB&height=200&section=header&text=BhagawatiApps&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Flutter%20Developer%20%7C%20App%20Craftsman%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:61DAFB&height=200&section=header&text=BhagawatiApps&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Flutter%20%7C%20Java%20%7C%20Android%20Developer%20%7C%20App%20Craftsman%20%7C%205%2B%20Apps%20on%20Play%20Store&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+BhagawatiApps;📱+Building+Flutter+%26+Mobile+Apps;🌐+Crafting+Web+Experiences+with+React;🔥+Powered+by+Firebase+%26+Node.js;☕+Coffee+→+💻+Code+→+🚀+Launch!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=700&lines=👋+Hey+there!+I'm+BhagawatiApps;📱+Building+Flutter+%26+Native+Android+Apps;☕+Java+%7C+Dart+%7C+Android+Studio+Dev;🏪+5%2B+Apps+Published+on+Google+Play+Store;🌐+Crafting+Web+Experiences+with+React;🔥+Powered+by+Firebase+%26+Node.js;☕+Coffee+→+💻+Code+→+🚀+Launch!)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,12 +29,14 @@
 ```yaml
 👤 name        : Bhoumik Bhatt (BhagawatiApps)
 🎯 focus       : Mobile & Cross-Platform Apps
-📱 primary     : Flutter (Dart)
+📱 primary     : Flutter (Dart) + Java (Android)
+🤖 android     : Android Studio | Java | Kotlin
+🏪 published   : 5+ Apps live on Google Play Store
 🌐 web         : React + Node.js + TypeScript
 🔥 backend     : Firebase, REST APIs
 🎓 learning    : Cloud Architecture & DevOps
 🤝 collaborate : Open Source & Innovative Ideas
-💡 ask me      : Flutter, Android, UI/UX, App Architecture
+💡 ask me      : Flutter, Java, Android, UI/UX, App Architecture
 ⚡ fun_fact    : I turn ☕ coffee into 💻 code!
 ```
 
@@ -48,7 +50,7 @@
 
 ### 📌 Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -57,6 +59,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
 ### 🌐 Frontend & Web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -78,6 +81,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -92,6 +96,8 @@
 | Skill | Proficiency |
 |-------|-------------|
 | **Flutter / Dart** | ██████████ 95% |
+| **Java (Android)** | █████████░ 90% |
+| **Android Studio** | █████████░ 90% |
 | **Firebase & BaaS** | █████████░ 90% |
 | **JavaScript / TypeScript** | ████████░░ 80% |
 | **React.js** | ███████░░░ 75% |
@@ -159,12 +165,35 @@
 
 <div align="center">
 
-| 📱 Mobile Apps | 🌐 Web Apps | 🔥 Backend |
-|:--------------:|:-----------:|:---------:|
-| Flutter & Dart | React.js | Node.js |
-| Android & iOS | HTML/CSS/JS | Firebase |
-| Cross-platform | TypeScript | REST APIs |
-| State Management | Responsive UI | Real-time DB |
+| 📱 Mobile Apps | 🤖 Java / Android | 🌐 Web Apps | 🔥 Backend |
+|:--------------:|:-----------------:|:-----------:|:---------:|
+| Flutter & Dart | Native Android | React.js | Node.js |
+| Android & iOS | Java & Kotlin | HTML/CSS/JS | Firebase |
+| Cross-platform | Android Studio | TypeScript | REST APIs |
+| State Management | Material Design | Responsive UI | Real-time DB |
+| Google Play Store | App Publishing | PWA | Cloud Functions |
+
+</div>
+
+---
+
+## 🏪 Published Apps on Google Play Store
+
+<div align="center">
+
+> 📲 **5+ Android apps published and live on the Google Play Store**, built with Java & Flutter using Android Studio.
+
+| # | App | Tech Stack | Description |
+|:-:|-----|:----------:|-------------|
+| 1 | 🅐 **App 1** | Java · Android Studio | Native Android app — [View on Play Store](https://play.google.com/store/apps/developer?id=BhagawatiApps) |
+| 2 | 🅑 **App 2** | Flutter · Dart | Cross-platform mobile app — [View on Play Store](https://play.google.com/store/apps/developer?id=BhagawatiApps) |
+| 3 | 🅒 **App 3** | Java · Firebase | Backend-powered Android app — [View on Play Store](https://play.google.com/store/apps/developer?id=BhagawatiApps) |
+| 4 | 🅓 **App 4** | Flutter · REST API | API-integrated mobile app — [View on Play Store](https://play.google.com/store/apps/developer?id=BhagawatiApps) |
+| 5 | 🅔 **App 5** | Java · SQLite | Offline-first Android app — [View on Play Store](https://play.google.com/store/apps/developer?id=BhagawatiApps) |
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=BhagawatiApps)
+
+> 📝 **Note:** Replace the app names, descriptions, and Play Store links above with your actual published app details.
 
 </div>
 
