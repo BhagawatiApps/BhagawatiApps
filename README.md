@@ -1,133 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:61DAFB&height=200&section=header&text=BhagawatiApps&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Flutter%20%7C%20Java%20%7C%20Android%20Developer%20%7C%20App%20Craftsman%20%7C%205%2B%20Apps%20on%20Play%20Store&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,50:3DDC84,100:0175C2&height=200&section=header&text=BhagawatiApps&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Android%20Developer%20%7C%20Java%20%7C%20Firebase%20%7C%204%20Apps%20on%20Play%20Store&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=700&lines=👋+Hey+there!+I'm+BhagawatiApps;📱+Building+Flutter+%26+Native+Android+Apps;☕+Java+%7C+Dart+%7C+Android+Studio+Dev;🏪+5%2B+Apps+Published+on+Google+Play+Store;🌐+Crafting+Web+Experiences+with+React;🔥+Powered+by+Firebase+%26+Node.js;☕+Coffee+→+💻+Code+→+🚀+Launch!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F3A5F&center=true&vCenter=true&width=700&lines=ðŸ‘‹+Hey+there!+I'm+BhagawatiApps;ðŸ“±+Building+Native+Android+Apps+with+Java;âš™ï¸+PHP+%2B+MySQL+Backend+Development;ðŸª+4+Apps+Published+on+Google+Play+Store;ðŸ”¥+Powered+by+Firebase+%7C+Retrofit+%7C+REST+APIs;ðŸŽ¨+UI%2FUX+Design+in+Adobe+XD;â˜•+Coffee+â†’+ðŸ’»+Code+â†’+ðŸš€+Publish!)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=BhagawatiApps&color=02569B&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/BhagawatiApps)
+[![Profile Views](https://komarev.com/ghpvc/?username=BhagawatiApps&color=1F3A5F&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/BhagawatiApps)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/BhagawatiApps?style=for-the-badge&color=02569B&logo=github)](https://github.com/BhagawatiApps?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/BhagawatiApps?style=for-the-badge&color=1F3A5F&logo=github)](https://github.com/BhagawatiApps?tab=followers)
 &nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/BhagawatiApps?style=for-the-badge&color=02569B&logo=github)](https://github.com/BhagawatiApps?tab=repositories)
+[![GitHub stars](https://img.shields.io/github/stars/BhagawatiApps?style=for-the-badge&color=1F3A5F&logo=github)](https://github.com/BhagawatiApps?tab=repositories)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## ðŸ™‹â€â™‚ï¸ About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 ```yaml
-👤 name        : Bhoumik Bhatt (BhagawatiApps)
-🎯 focus       : Mobile & Cross-Platform Apps
-📱 primary     : Flutter (Dart) + Java (Android)
-🤖 android     : Android Studio | Java | Kotlin
-🏪 published   : 5+ Apps live on Google Play Store
-🌐 web         : React + Node.js + TypeScript
-🔥 backend     : Firebase, REST APIs
-🎓 learning    : Cloud Architecture & DevOps
-🤝 collaborate : Open Source & Innovative Ideas
-💡 ask me      : Flutter, Java, Android, UI/UX, App Architecture
-⚡ fun_fact    : I turn ☕ coffee into 💻 code!
+ðŸ‘¤ name        : Bhoumik Bhatt (BhagawatiApps)
+ðŸŽ¯ focus       : Native Android App Development
+ðŸ“± primary     : Java + XML (Android Studio)
+âš™ï¸ backend     : PHP + MySQL (REST APIs)
+ðŸª published   : 4 Apps live on Google Play Store
+ðŸ”¥ firebase    : Authentication, Realtime Database, Analytics, Crashlytics, Cloud Messaging
+ðŸŒ frontend    : HTML, CSS, JavaScript, Bootstrap
+ðŸŽ¨ design      : UI/UX in Adobe XD, Material Design
+ðŸ› ï¸ deployment  : XAMPP (local) â†’ Hostinger (shared hosting)
+ðŸŽ“ education   : BCA, Shree J. S. Parmar BCA College, Kodinar (2023â€“2026)
+ðŸ’¡ ask me      : Android, Java, Firebase, Retrofit, PHP/MySQL, UI/UX
+âš¡ fun_fact    : I turn â˜• coffee into ðŸ’» code and ðŸ“² Play Store apps!
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ðŸ› ï¸ Tech Stack & Tools
 
 <div align="center">
 
-### 📌 Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### ðŸ“Œ Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
 
-### 📱 Mobile & Cross-Platform
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### ðŸ“± Mobile Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 
-### 🌐 Frontend & Web
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### ðŸŒ Frontend & Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### âš™ï¸ Backend & APIs
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
 
-### 🗄️ Databases
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 Tools & Platforms
+### ðŸ”§ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 </div>
 
 ---
 
-## 💡 Skills & Expertise
+## ðŸ’¡ Skills & Expertise
 
 <div align="center">
 
 | Skill | Proficiency |
 |-------|-------------|
-| **Flutter / Dart** | ██████████ 95% |
-| **Java (Android)** | █████████░ 90% |
-| **Android Studio** | █████████░ 90% |
-| **Firebase & BaaS** | █████████░ 90% |
-| **JavaScript / TypeScript** | ████████░░ 80% |
-| **React.js** | ███████░░░ 75% |
-| **Node.js / Backend** | ███████░░░ 70% |
-| **Python** | ██████░░░░ 65% |
-| **UI/UX Design** | ████████░░ 80% |
-| **REST API Integration** | █████████░ 85% |
+| **Java (Android)** | â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘ 90% |
+| **Android Studio** | â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘ 90% |
+| **Firebase (Auth, Realtime DB, Analytics, Crashlytics)** | â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘ 90% |
+| **PHP / MySQL** | â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘ 85% |
+| **REST API Integration (Retrofit)** | â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘ 85% |
+| **UI/UX Design (Adobe XD, Material Design)** | â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘ 80% |
+| **HTML / CSS / JavaScript / Bootstrap** | â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘ 75% |
+| **XAMPP / Hostinger Deployment** |â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘ 75% |
+| **Git / GitHub** | â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘ 75% |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## ðŸ“Š GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BhagawatiApps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=02569B&icon_color=61DAFB&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagawatiApps&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=02569B&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BhagawatiApps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=1F3A5F&icon_color=3DDC84&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagawatiApps&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F3A5F&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BhagawatiApps&theme=tokyonight&hide_border=true&background=0D1117&stroke=02569B&ring=61DAFB&fire=FFCA28&currStreakLabel=61DAFB&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BhagawatiApps&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F3A5F&ring=3DDC84&fire=FFCA28&currStreakLabel=3DDC84&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## ðŸ† GitHub Trophies
 
 <div align="center">
 
@@ -137,17 +130,17 @@
 
 ---
 
-## 📈 Contribution Graph
+## ðŸ“ˆ Contribution Graph
 
 <div align="center">
 
-[![BhagawatiApps's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BhagawatiApps&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=61DAFB&line=02569B&point=FFCA28)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![BhagawatiApps's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BhagawatiApps&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3DDC84&line=1F3A5F&point=FFCA28)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## ðŸ Contribution Snake
 
 <div align="center">
 
@@ -161,55 +154,49 @@
 
 ---
 
-## 🚀 What I Build
+## ðŸš€ What I Build
 
 <div align="center">
 
-| 📱 Mobile Apps | 🤖 Java / Android | 🌐 Web Apps | 🔥 Backend |
-|:--------------:|:-----------------:|:-----------:|:---------:|
-| Flutter & Dart | Native Android | React.js | Node.js |
-| Android & iOS | Java & Kotlin | HTML/CSS/JS | Firebase |
-| Cross-platform | Android Studio | TypeScript | REST APIs |
-| State Management | Material Design | Responsive UI | Real-time DB |
-| Google Play Store | App Publishing | PWA | Cloud Functions |
+| ðŸ“± Android Apps | âš™ï¸ Backend | ðŸŽ¨ UI/UX | ðŸ”¥ Firebase |
+|:---------------:|:----------:|:--------:|:-----------:|
+| Native Android (Java, XML) | PHP & MySQL | Adobe XD | Authentication |
+| Material Design | REST APIs (Retrofit) | Responsive XML Layouts | Realtime Database |
+| Google Play Publishing | CRUD Operations | UI/UX Design | Analytics & Crashlytics |
+| In-App Ad Monetization | Shared Hosting (Hostinger) | Material Design | Cloud Messaging |
 
 </div>
 
 ---
 
-## 🏪 Published Apps on Google Play Store
+## ðŸª Published Apps on Google Play Store
 
 <div align="center">
 
-> 📲 **5+ Android apps published and live on the Google Play Store**, built with Java & Flutter using Android Studio.
+> ðŸ“² **4 Android apps published and actively maintained on the Google Play Store**, built with Java & XML using Android Studio.
 
-| # | App | Tech Stack | Description |
-|:-:|-----|:----------:|-------------|
-| 1 | 🅐 **App 1** | Java · Android Studio | Native Android app — [View on Play Store](https://play.google.com/store/apps/developer?id=BhagawatiApps) |
-| 2 | 🅑 **App 2** | Flutter · Dart | Cross-platform mobile app — [View on Play Store](https://play.google.com/store/apps/developer?id=BhagawatiApps) |
-| 3 | 🅒 **App 3** | Java · Firebase | Backend-powered Android app — [View on Play Store](https://play.google.com/store/apps/developer?id=BhagawatiApps) |
-| 4 | 🅓 **App 4** | Flutter · REST API | API-integrated mobile app — [View on Play Store](https://play.google.com/store/apps/developer?id=BhagawatiApps) |
-| 5 | 🅔 **App 5** | Java · SQLite | Offline-first Android app — [View on Play Store](https://play.google.com/store/apps/developer?id=BhagawatiApps) |
+| # | App | Tech Stack | Description | Downloads |
+|:-:|-----|:----------:|-------------|:---------:|
+| 1 | **Chalisa Sangrah (Hindi)** | Java Â· XML Â· Firebase | Devotional app with Hindu god-goddess Chalisa lyrics in Hindi â€” [View on Play Store](https://play.google.com/store/apps/details?id=com.bhagawatiapps.ChalishaSangrahHindi) | 33,000+ (28K+ active users) |
+| 2 | **Chalisa Sangrah (Gujarati)** | Java Â· XML Â· Firebase | Gujarati-language version of the Chalisa devotional app â€” [View on Play Store](https://play.google.com/store/apps/details?id=com.bhagawatiapps.GujaratiChalisha) | 10,000+ |
+| 3 | **Okhaharn App** | Java Â· XML Â· Firebase | Gujarati devotional song lyrics app â€” [View on Play Store](https://play.google.com/store/apps/details?id=com.bhagawatiapps.okhaharangujarati) | 500+ |
+| 4 | **Maru Gyan Test** | Java Â· XML Â· PHP Â· MySQL Â· Retrofit | Educational test-prep app for Gujarat government exam aspirants, with level-wise tests and dynamic test generation â€” [View on Play Store](https://play.google.com/store/apps/details?id=com.bhagawatiapps.maarugyantest) | 500+ active users |
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=BhagawatiApps)
 
-> 📝 **Note:** Replace the app names, descriptions, and Play Store links above with your actual published app details.
-
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## ðŸ¤ Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhagawatiApps)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhoumikjbhatt01@gmail.com)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=BhagawatiApps)
 
-> 📝 **Note:** Replace the placeholder URLs above with your actual social profile links.
+> ðŸ“ **Note:** Add your LinkedIn or portfolio badge here once you have a link ready â€” left out for now since I only used channels confirmed on your resume.
 
 </div>
 
@@ -217,7 +204,7 @@
 
 <div align="center">
 
-### 💭 Dev Quote of the Day
+### ðŸ’­ Dev Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -227,20 +214,10 @@
 
 <div align="center">
 
-### 🎵 Vibing to
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,50:3DDC84,100:1F3A5F&height=120&section=footer" width="100%"/>
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=02569B)](https://open.spotify.com/user/your-spotify-id)
+**ðŸ’™ Built with Java, one Play Store release at a time â€” [BhagawatiApps](https://github.com/BhagawatiApps)**
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:0175C2,100:02569B&height=120&section=footer" width="100%"/>
-
-**💙 Made with Flutter spirit by [BhagawatiApps](https://github.com/BhagawatiApps)**
-
-*If you like what I do, consider giving a ⭐ to my repositories!*
+*If you like what I build, consider giving a â­ to my repositories!*
 
 </div>
